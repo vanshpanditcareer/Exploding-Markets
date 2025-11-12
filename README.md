@@ -1,0 +1,1 @@
+Exploding Market is a dynamic web platform that provides users with real-time insights into the stock market — including top gainers, losers, trending companies, and flashcards to simplify finance concepts. The project focuses on clean design, interactivity, and accessibility using HTML, CSS, and JavaScript.
